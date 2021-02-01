@@ -7,3 +7,5 @@ Well, and here is some normal text.
 * list item 1
 * list item 2
 * list item 3
+
+![](Travel.PNG)
